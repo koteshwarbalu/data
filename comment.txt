@@ -1,0 +1,4 @@
+spark hadoop spark hive
+spark spark hive hive
+hadoop hdfs hadoop hdfs
+hadoop hdfs hive spark
